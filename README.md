@@ -17,17 +17,22 @@
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ### **Data Engineering & Big Data**
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -47,11 +52,6 @@
 ---
 
 ## 📝 **Featured Projects**
-🔹 **[ETL Pipeline with Apache Airflow](https://github.com/pilanpra/etl-airflow)** – Designed a **robust ETL pipeline** using Airflow, PostgreSQL, and AWS S3 for data ingestion and transformation.  
-🔹 **[Streaming Data with Apache Kafka](https://github.com/pilanpra/kafka-streams)** – Built a **real-time streaming data pipeline** using Kafka and Spark Structured Streaming.  
-🔹 **[Big Data Processing with PySpark](https://github.com/pilanpra/bigdata-pyspark)** – Optimized large-scale data processing with **PySpark and Databricks**.  
-🔹 **[Data Warehouse with Snowflake](https://github.com/pilanpra/data-warehouse-snowflake)** – Implemented a scalable **data warehouse** architecture using **Snowflake and dbt**.
-
 🔹 **Check out my repositories for more cool projects!** 🚀  
 
 ---
